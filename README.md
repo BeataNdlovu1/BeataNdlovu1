@@ -24,12 +24,17 @@ decisions. I'm skilled in data
 visualization, statistical analysis, 
 and data mining, and I'm proficient in 
 tools like Excel, SQL, and programming 
-languages such as Python or R. My goal 
-is to turn data into actionable 
+languages such as Python or R. 
+
+### Professional Goals
+
+>To turn data into actionable 
 insights that drive business outcomes. 
-I enjoy identifying trends, creating 
-models, and presenting complex data in 
+>>Identifying trends, creating 
+models
+>>>presenting complex data in 
 a clear and concise manner to 
 stakeholders.
-******
+
+
 
