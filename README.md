@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#About Me 
+#AboutMe
 
 As a Data Analyst, I collect, 
 organize, and analyze data to help 
