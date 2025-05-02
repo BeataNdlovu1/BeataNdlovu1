@@ -36,7 +36,11 @@ models
 a clear and concise manner to 
 stakeholders.
 
- ### Skills
+ ### Soft Skills
+ - Problem-Solving:  Ability to approach complex challanges with analytical thinking.
+ - Comunication :    Explaining technical findings to non-technical stakeholders
+ - Collabaration:    Working with business analysts,engineers and executives to drive data-driven decisions
+ 
  
   
 
